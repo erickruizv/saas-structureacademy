@@ -37,7 +37,7 @@ export default function Landing() {
             <a href="#recurso" className="hover:text-structure-green transition-colors">Journal Gratuito</a>
           </div>
           <div className="flex items-center">
-            <a href="/auth" className="text-sm font-bold hover:text-structure-green transition-colors mr-6 text-structure-dark hidden sm:block">
+            <a href="/auth" className="text-sm font-bold hover:text-structure-green transition-colors mr-4 sm:mr-6 text-structure-dark">
               Iniciar Sesión
             </a>
             <a href="#comenzar" className="bg-structure-green text-white px-6 py-2.5 rounded-md font-bold text-sm hover:bg-structure-green/90 transition-colors shadow-sm">
